@@ -1,0 +1,8 @@
+# ignore the course demo notebooks
+demos/
+
+# ignore local system files
+.DS_Store
+
+# ignore notebook checkpoints
+.ipynb_checkpoints/
